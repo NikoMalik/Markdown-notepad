@@ -1,2 +1,3 @@
 # Markdown-notepad
-Markdown-notepad in golang
+
+# JUST FOR FUN
